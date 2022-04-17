@@ -1,0 +1,24 @@
+{
+  "name": "dakpion",
+  "version": "1.0.0",
+  "description": "app.Dakpion.live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ah-sabbir/Dakpion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ah-sabbir/Dakpion/issues"
+  },
+  "homepage": "https://github.com/ah-sabbir/Dakpion#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "gun": "^0.2020.1236"
+  }
+}
